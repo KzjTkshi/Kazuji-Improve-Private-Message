@@ -1,3 +1,9 @@
+/*
+	STATUS PEMBUATAN SCRIPT INI
+	MULAI : 9:23 PM
+	DONE  : 9:31 PM
+*/
+
 #include <a_samp>
 #include <sscanf2>
 #include <zcmd>
